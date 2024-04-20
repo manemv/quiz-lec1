@@ -49,8 +49,7 @@ const questions = [
               "En el rincón olvidado del bosque, donde los árboles se inclinan en complicidad, el viento susurra secretos ancestrales.",
               "Las hojas tiemblan al escucharlo, como si fueran páginas de un libro antiguo, y los helechos se mecen al ritmo de su voz.",
               "¿Qué secretos guarda el viento? ¿Acaso las historias de amores perdidos, las risas de los niños que jugaron aquí?",
-              "El viento no responde, solo sigue susurrando, llevando consigo los suspiros de los árboles, las confesiones de las aves al atardecer.",
-              
+              "El viento no responde, solo sigue susurrando, llevando consigo los suspiros de los árboles, las confesiones de las aves al atardecer."
             ],
         question : "What is my name",
         options : [
