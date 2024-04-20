@@ -29,18 +29,19 @@ const questions = [
         answer : "C) Misterio"
     },
     {
-        story : ["¿Vives pendiente del reloj?",
-                 "",
-                 ""
-                 ],
-        question : "Which of this is a programming language?",
+         story : ["Lea el siguiente pasaje para contestar las preguntas 1 a 3.",
+              "En lo profundo del bosque, donde los rayos del sol apenas logran filtrarse entre las hojas, existe un lugar misterioso y encantado.  Los árboles altos se entrelazan formando arcos naturales, y el suelo está cubierto de musgo esponjoso. Aquí, el tiempo parece detenerse, y los susurros del viento cuentan historias olvidadas.",
+              "Los habitantes de este bosque son criaturas mágicas: hadas diminutas que bailan alrededor de las flores, duendes traviesos que esconden tesoros bajo las raíces y unicornios que beben del arroyo cristalino. Las luciérnagas iluminan la noche como pequeñas estrellas terrestres, y los helechos parecen tejidos por las manos de las ninfas.",
+              "Este rincón secreto es un refugio para aquellos que buscan paz y conexión con la naturaleza. Aquí, los corazones se abren, y los deseos se hacen realidad. Pero solo aquellos con ojos atentos y corazones puros pueden encontrar la entrada a este bosque mágico."
+            ],
+        question : "3. ¿Cuál es el estilo de redacción utilizado en el pasaje?",
         options : [
-            "HTML",
-            "CSS",
-            "Javascript",
-            "JSON"
+            "A) Descriptivo",
+            "B) Argumentativo.",
+            "C) Informativo",
+            "D) Humorístico"
         ],
-        answer : "Javascript"
+        answer : "A) Descriptivo"
     },
     {
         story : ["¿Vives pendiente del reloj?",
