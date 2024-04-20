@@ -20,9 +20,11 @@ const questions = [
               "Los habitantes de este bosque son criaturas mágicas: hadas diminutas que bailan alrededor de las flores, duendes traviesos que esconden tesoros bajo las raíces y unicornios que beben del arroyo cristalino. Las luciérnagas iluminan la noche como pequeñas estrellas terrestres, y los helechos parecen tejidos por las manos de las ninfas.",
               "Este rincón secreto es un refugio para aquellos que buscan paz y conexión con la naturaleza. Aquí, los corazones se abren, y los deseos se hacen realidad. Pero solo aquellos con ojos atentos y corazones puros pueden encontrar la entrada a este bosque mágico."
             ],
-        question : 'En el párrafo 1, el autor escribe "el uso de turbinas eólicas aumentó más de un 25 por ciento por año". ¿Este detalle respalda qué idea principal?',
-        options : [
-            "2", "3", "5", "19","30","32","33","34"
+        question : '2. ¿Cuál es el tono predominante en el pasaje?',
+        options : [ "A) Tristeza",
+                    "B) Felicidad",
+                    "C) Misterio",
+                    "D) Aburrimiento"    
         ],
         answer : 2
     },
