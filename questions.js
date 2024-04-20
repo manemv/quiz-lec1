@@ -44,10 +44,14 @@ const questions = [
         answer : "A) Descriptivo"
     },
     {
-        story : ["¿Vives pendiente del reloj?",
-                 "",
-                 ""
-                 ],
+          story : ["Lea el siguiente pasaje para contestar las preguntas 4 a 6.",
+              "El Susurro del Viento",
+              "En el rincón olvidado del bosque, donde los árboles se inclinan en complicidad, el viento susurra secretos ancestrales.",
+              "Las hojas tiemblan al escucharlo, como si fueran páginas de un libro antiguo, y los helechos se mecen al ritmo de su voz.",
+              "¿Qué secretos guarda el viento? ¿Acaso las historias de amores perdidos, las risas de los niños que jugaron aquí?",
+              "El viento no responde, solo sigue susurrando, llevando consigo los suspiros de los árboles, las confesiones de las aves al atardecer.",
+              
+            ],
         question : "What is my name",
         options : [
             "Femi Fatokun",
