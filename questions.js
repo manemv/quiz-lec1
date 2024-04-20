@@ -26,7 +26,7 @@ const questions = [
                     "C) Misterio",
                     "D) Aburrimiento"    
         ],
-        answer : 2
+        answer : "C) Misterio"
     },
     {
         story : ["¿Vives pendiente del reloj?",
