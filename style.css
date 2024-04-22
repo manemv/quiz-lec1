@@ -9,7 +9,7 @@
 }
 .quiz-container{
     background-color: rgb(255, 255, 255);
-    box-shadow: gray 2px 2px 2px;
+    box-shadow: var(--devsite-page-box-shadow, 0 1px 2px 0 #9aa0a6, 0 1px 3px 1px var(--devsite-elevation-ambient-shadow-color));
 }
 .quiz-container > div{
     margin: 20px;
