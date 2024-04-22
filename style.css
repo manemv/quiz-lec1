@@ -1,8 +1,8 @@
 .main-wrapper{
     font-family:Georgia, 'Times New Roman', Times, serif;
     display: block;
-  margin-left: 15%;
-  margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     flex-direction: column;
     align-items: center;
     justify-content: center;
