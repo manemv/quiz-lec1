@@ -115,7 +115,6 @@ const showQuestion = (i) => {
         quizContainer.innerHTML = `
         <div class="action-btns">
         ${index > 0 ? `<button class="prev-next" onclick="showQuestion(${index - 1})">Anterior</button>` : ""}
-        ${jumpBtns}
         ${index < questions.length - 1 ? `<button class="prev-next" onclick="showQuestion(${index + 1})">Siguiente</button>` : ""}
         <button class="prev-next" style="background-color : red;" onclick="submitQuiz()">Calificar</button>
     </div>
