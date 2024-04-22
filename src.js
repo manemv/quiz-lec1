@@ -85,17 +85,14 @@ const submitQuiz = ()=>{
                 <div>Contestadas</div>
                 <input type="text" name="Contestadas" value="${attempted} de ${questions.length}">
             </div>
-            <br>
             <div>
                 <div>Incorrectas</div>
                 <input type="text" name="Incorrectas" value="${wrong}">
             </div>
-            <br>
             <div>
                 <div>Correctas</div>
                 <input type="text" name="Correctas" value="${correct}">
             </div>
-            <br>
             <div>
                 <div>Porcentaje</div>
                 <input type="text" name="Porcentaje" value="${porcentage}%">
