@@ -9,7 +9,7 @@
 }
 .quiz-container{
     background-color: rgb(255, 255, 255);
-    box-shadow: 0 0 0 2px #ccc;
+    box-shadow: 0 0 2px 2px #ccc;
 }
 .quiz-container > div{
     margin: 20px;
