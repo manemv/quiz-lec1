@@ -124,7 +124,7 @@ const showQuestion = (i) => {
                 </h3>
             </div>
             <div id="story">
-            ${stories}
+           <pre> ${stories} </pre>
             </div>
             
             <div id="question">
