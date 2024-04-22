@@ -37,6 +37,7 @@
 .result-details{
     display: inline-flex;
     justify-content: center;
+    flex-direction: column;
 }
 .result-details > div{
     margin: 20px;
