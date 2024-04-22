@@ -109,7 +109,7 @@ const showQuestion = (i) => {
         question = questions[index];
         let stories = generateStory(index);
         let options = generateOptions(index);
-        let jumpBtns = generateJumpBtns(index);
+        //let jumpBtns = generateJumpBtns(index);
 
 
         quizContainer.innerHTML = `
