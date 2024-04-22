@@ -43,7 +43,7 @@
     margin: 20px;
 }
 
-#story { text-indent: 40px; }
+#story { text-indent: 0px; }
 #question {
     font-weight: bold;
 } 
