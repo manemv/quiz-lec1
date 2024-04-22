@@ -31,13 +31,13 @@ const generateOptions = () => {
     return options;
 }
 
-const generateJumpBtns = ()=>{
-    let btns = ``;
-    for(let i = 0; i < questions.length; i++){
+/*const generateJumpBtns = ()=>{
+//    let btns = ``;
+ //   for(let i = 0; i < questions.length; i++){
         btns += `<button class="jumper-button ${i == index ? "active" : ""}" onclick="showQuestion(${i})">${i + 1}</button>`;
     }
     return btns;
-}
+} */
 
 const addAnswer = ()=>{
     let currentOptions = document.getElementsByName("answer-btn");
