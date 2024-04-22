@@ -136,7 +136,7 @@ const showQuestion = (i) => {
             </div>
             <div class="action-btns">
                 ${index > 0 ? `<button class="prev-next" onclick="showQuestion(${index - 1})">Anterior</button>` : ""}
-                ${jumpBtns}
+               ${"Test"}
                 ${index < questions.length - 1 ? `<button class="prev-next" onclick="showQuestion(${index + 1})">Siguiente</button>` : ""}
                 <button type="submit" class="prev-next" style="background-color : red;" onclick="submitQuiz()">Calificar</button>
             </div>`
